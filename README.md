@@ -1,7 +1,6 @@
 # Simple MCP Server
 
-A simple Model Context Protocol (MCP) server example that demonstrates basic MCP functionality following the blog tutorial from [Composio](https://composio.dev/blog/mcp-server-step-by-step-guide-to-building-from-scrtch).
-
+A simple Model Context Protocol (MCP) server example that demonstrates basic MCP functionality.
 ## What it does
 
 This MCP server provides three basic tools:

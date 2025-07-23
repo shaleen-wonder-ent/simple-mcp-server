@@ -17,7 +17,6 @@ This is a Model Context Protocol (MCP) server project written in TypeScript.
 
 - You can find more info and examples at https://modelcontextprotocol.io/llms-full.txt
 - MCP SDK documentation: https://github.com/modelcontextprotocol/typescript-sdk
-- Follow the blog tutorial: https://composio.dev/blog/mcp-server-step-by-step-guide-to-building-from-scrtch
 
 ## Project Structure:
 
