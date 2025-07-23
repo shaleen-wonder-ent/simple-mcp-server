@@ -87,7 +87,7 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
                     content: [
                         {
                             type: 'text',
-                            text: `Echo: ${parsed.message}`,
+                            text: `Echo, from the MCP Server:==> ${parsed.message}`,
                         },
                     ],
                 };

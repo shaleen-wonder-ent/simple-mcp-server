@@ -129,7 +129,7 @@ server.setRequestHandler(types_js_1.CallToolRequestSchema, function (request) { 
                             content: [
                                 {
                                     type: 'text',
-                                    text: "Echo: ".concat(parsed.message),
+                                    text: "Echo:=> ".concat(parsed.message),
                                 },
                             ],
                         }];

@@ -1,9 +1,12 @@
 {
-  "servers": {
-    "simple-mcp-server": {
-      "type": "stdio",
-      "command": "node",
-      "args": ["build/index.js"]
-    }
-  }
+	"inputs": [],
+	"servers": {
+		"simple-mcp-server": {
+			"type": "stdio",
+			"command": "node",
+			"args": [
+				"build/index.js"
+			]
+		}
+	}
 }
