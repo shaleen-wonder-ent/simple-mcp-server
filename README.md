@@ -118,6 +118,3 @@ This project is set up with:
 - MCP SDK for protocol compliance
 - ES modules support
 
-## License
-
-ISC
