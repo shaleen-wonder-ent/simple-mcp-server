@@ -5,5 +5,14 @@
       "args": ["./build/index.js"],
       "env": {}
     }
+  },
+  "chat.mcp.serverSampling": {
+    "MCP/.vscode/mcp.json: simple-mcp-server": {
+      "allowedModels": [
+        "copilot/gpt-4.1",
+        "copilot/claude-opus-4",
+        "copilot/claude-3.5-sonnet"
+      ]
+    }
   }
 }
